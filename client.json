@@ -1,0 +1,1 @@
+{"client_id":"https://chriart.github.io/chriartframe/client.json","client_name":"ChriartFrame per Final Cut Pro","redirect_uris":["http://127.0.0.1:53682/callback"],"grant_types":["authorization_code","refresh_token"],"response_types":["code"],"token_endpoint_auth_method":"none"}
